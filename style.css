@@ -21,7 +21,8 @@ section{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background: url(colorful-abstract-background-with-paints-bubbles_181624-27296.avif) no-repeat;
+/*     background: url(colorful-abstract-background-with-paints-bubbles_181624-27296.avif) no-repeat; */
+    background: red;
     background-size: cover;
     background-position: center;
     animation: animate 5s linear infinite;
